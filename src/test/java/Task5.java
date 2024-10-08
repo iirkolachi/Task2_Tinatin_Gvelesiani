@@ -13,7 +13,7 @@ public class Task5 {
         System.out.println(naklebiAnToli);
 
 
-        boolean shedareba2 = x > y || x <= y;
+        boolean shedareba2 = x < y || x == y;
         System.out.println(shedareba2);
 
         boolean shedareba3 = y == x && y > x;
