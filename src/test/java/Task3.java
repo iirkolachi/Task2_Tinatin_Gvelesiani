@@ -3,19 +3,19 @@ public class Task3 {
         int num1 = 5;
         int num2 = 12;
 
-        int jami = num1 + num2; //num1 += num2;
+        int jami = num1 + num2;
         System.out.println(jami);
 
-        int sxvaoba = num1 - num2; //num1 -= num2
+        int sxvaoba = num1 - num2;
         System.out.println(sxvaoba);
 
-        int namravli = num1 * num2; //num1 *= num2
+        int namravli = num1 * num2;
         System.out.println(namravli);
 
-        int ganayofi = num1 / num2; //num1 /=num2
+        int ganayofi = num1 / num2;
         System.out.println(ganayofi);
 
-        int nashti = num1 % num2; //num1 %= num2
+        int nashti = num1 % num2;
         System.out.println(nashti);
     }
 }
